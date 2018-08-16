@@ -1,3 +1,4 @@
+  
   Jsp dosyasından referans alan bir component için JspIncludeComponent kullanılarak bir değişkene jsp nin pathi verilir. 
 Bu değişken ismi bir jsp pathinin yerini almış olur. (Örneğin üz metinden oluşacak bir component için CMsParagraphComponent
 kullanılır gibi ). Bu componentleri sayfalarda kullanabilmek için slotlar oluşturulur(inşert_update ContentSlot).
