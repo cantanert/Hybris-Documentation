@@ -1,4 +1,6 @@
 
+![alt text](https://github.com/cantanert/Hybris-Documentation/blob/master/w.png "")
+
   CMSLinksComponent'den custom bir link component yarat, varsa projende kullanmak istediğin bir  navigation node'un altına, 
 yoksa yeni yaratacağın bir node'un altına ekle. Ben profilim sayfasında solda bulunan AccountNavigationNode'una, favorilerimin
 gösterileceği sayfayı çağıran bir wishlistNavLink oluşturmak istiyorum. Örnek olarak bir işlem yapalım:
