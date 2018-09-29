@@ -1,3 +1,4 @@
+Navigation Node ve Link Component ilişkisi:
 
 ![alt text](https://github.com/cantanert/Hybris-Documentation/blob/master/w.png "")
 
